@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="7">
+      <Unit0>
+        <Filename Value="WhatsAppLinkFix.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="43"/>
+        <CursorPos X="69" Y="82"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\objpas\sysutils\filutilh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="123"/>
+        <CursorPos X="3" Y="145"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\components\lazutils\lazutf8.pas"/>
+        <UnitName Value="LazUTF8"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="118"/>
+        <CursorPos X="14" Y="66"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\packages\rtl-objpas\src\inc\strutils.pp"/>
+        <UnitName Value="StrUtils"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="26" Y="30"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\objpas\sysutils\osutilsh.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="10" Y="26"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\win\sysutils.pp"/>
+        <UnitName Value="SysUtils"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1164"/>
+        <CursorPos X="42" Y="1164"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\packages\winunits-base\src\shlobj.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2265"/>
+        <CursorPos X="11" Y="2560"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+    </Units>
+    <JumpHistory Count="18" HistoryIndex="17">
+      <Position1>
+        <Filename Value="WhatsAppLinkFix.lpr"/>
+        <Caret Line="6" Column="38"/>
+      </Position1>
+      <Position2>
+        <Filename Value="WhatsAppLinkFix.lpr"/>
+        <Caret Line="30" Column="90" TopLine="12"/>
+      </Position2>
+      <Position3>
+        <Filename Value="WhatsAppLinkFix.lpr"/>
+        <Caret Line="24" Column="20" TopLine="12"/>
+      </Position3>
+      <Position4>
+        <Filename Value="WhatsAppLinkFix.lpr"/>
+        <Caret Line="52" Column="22" TopLine="18"/>
+      </Position4>
+      <Position5>
+        <Filename Value="WhatsAppLinkFix.lpr"/>
+        <Caret Line="27" TopLine="21"/>
+      </Position5>
+      <Position6>
+        <Filename Value="WhatsAppLinkFix.lpr"/>
+        <Caret Line="18" Column="63"/>
+      </Position6>
+      <Position7>
+        <Filename Value="WhatsAppLinkFix.lpr"/>
+        <Caret Line="50" Column="20" TopLine="14"/>
+      </Position7>
+      <Position8>
+        <Filename Value="WhatsAppLinkFix.lpr"/>
+        <Caret Line="6" Column="48"/>
+      </Position8>
+      <Position9>
+        <Filename Value="WhatsAppLinkFix.lpr"/>
+        <Caret Line="58" Column="44" TopLine="41"/>
+      </Position9>
+      <Position10>
+        <Filename Value="WhatsAppLinkFix.lpr"/>
+        <Caret Line="35" Column="50" TopLine="9"/>
+      </Position10>
+      <Position11>
+        <Filename Value="WhatsAppLinkFix.lpr"/>
+        <Caret Line="19" Column="15"/>
+      </Position11>
+      <Position12>
+        <Filename Value="WhatsAppLinkFix.lpr"/>
+        <Caret Line="36" Column="19" TopLine="14"/>
+      </Position12>
+      <Position13>
+        <Filename Value="WhatsAppLinkFix.lpr"/>
+        <Caret Line="64" Column="47" TopLine="53"/>
+      </Position13>
+      <Position14>
+        <Filename Value="WhatsAppLinkFix.lpr"/>
+        <Caret Line="33" Column="5" TopLine="7"/>
+      </Position14>
+      <Position15>
+        <Filename Value="WhatsAppLinkFix.lpr"/>
+        <Caret Line="31" Column="8" TopLine="7"/>
+      </Position15>
+      <Position16>
+        <Filename Value="WhatsAppLinkFix.lpr"/>
+        <Caret Line="42" Column="16" TopLine="16"/>
+      </Position16>
+      <Position17>
+        <Filename Value="WhatsAppLinkFix.lpr"/>
+        <Caret Line="24" Column="62" TopLine="16"/>
+      </Position17>
+      <Position18>
+        <Filename Value="WhatsAppLinkFix.lpr"/>
+        <Caret Line="37" Column="17" TopLine="15"/>
+      </Position18>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
