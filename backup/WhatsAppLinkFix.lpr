@@ -79,7 +79,7 @@ begin
 
   if not aAppPath.Trim.IsEmpty then
    begin
-   if not DirectoryExists(aLinkPath) then ForceDirectories(aLinkPath);
+   if not DirectoryExists(aAppPath) then ForceDirectories(aAppPath);
    CreateLink(aAppPath, aLinkPath);
    end;
 
